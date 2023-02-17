@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\fengzhen\\PRATIC\\Vanier College\\Block 4\\Application Development\\Assignment_2\\SmallShopUI\\SmallShopUI.csproj": {}
+    "C:\\Users\\lilyw\\Desktop\\Assignment_2\\SmallShopUI\\SmallShopUI.csproj": {}
   },
   "projects": {
-    "E:\\fengzhen\\PRATIC\\Vanier College\\Block 4\\Application Development\\Assignment_2\\SmallShopUI\\SmallShopUI.csproj": {
+    "C:\\Users\\lilyw\\Desktop\\Assignment_2\\SmallShopUI\\SmallShopUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\fengzhen\\PRATIC\\Vanier College\\Block 4\\Application Development\\Assignment_2\\SmallShopUI\\SmallShopUI.csproj",
+        "projectUniqueName": "C:\\Users\\lilyw\\Desktop\\Assignment_2\\SmallShopUI\\SmallShopUI.csproj",
         "projectName": "SmallShopUI",
-        "projectPath": "E:\\fengzhen\\PRATIC\\Vanier College\\Block 4\\Application Development\\Assignment_2\\SmallShopUI\\SmallShopUI.csproj",
-        "packagesPath": "C:\\Users\\fengzhen\\.nuget\\packages\\",
-        "outputPath": "E:\\fengzhen\\PRATIC\\Vanier College\\Block 4\\Application Development\\Assignment_2\\SmallShopUI\\obj\\",
+        "projectPath": "C:\\Users\\lilyw\\Desktop\\Assignment_2\\SmallShopUI\\SmallShopUI.csproj",
+        "packagesPath": "C:\\Users\\lilyw\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lilyw\\Desktop\\Assignment_2\\SmallShopUI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\fengzhen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lilyw\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
